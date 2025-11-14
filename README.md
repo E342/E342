@@ -2,10 +2,11 @@
 
 ## ✨ Sobre mí
 
-🎓 Actualmente estudio **Ingeniería Informática**.  
-🎤 Mis hobbies son el **canto** y la **carpintería**.  
-💡 Me apasiona aprender tecnologías que permitan transformar datos en información útil.  
-🚀 Siempre estoy explorando nuevas herramientas para impulsar mi crecimiento profesional.
+- 🎓 Actualmente estudio Ingeniería Informática.
+- 🎤 Mis hobbies son el canto y la carpintería.
+- 🤝 Me gusta rodearme de personas por la diversidad de pensamiento y opiniones, que aportan nuevas perspectivas.
+- 💡 Me interesa aprender tecnologías que permitan transformar datos en información útil.
+- 🤓 Dato curioso: mi cabello rizado siempre decide su propio estilo, yo solo lo acompaño.
 
 ---
 
